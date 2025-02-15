@@ -8,7 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JheovauhniThompson1/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Configuring Active Directory within Azure VMs](https://github.com/JheovauhniThompson1/AD-config)
-  - [Active Directory: Depolying Active Directory within Azure Windows Server VM](https://github.com/JheovauhniThompson1/AD-deloyment)
+  - [Active Directory: Depolying Active Directory within Azure VMs](https://github.com/JheovauhniThompson1/AD-deloyment)
+  - [Active Directory: Enabling and Unlocking Accounts and Resetting Passwords with Azure VMs](https://github.com/JheovauhniThompson1/AD-account-manageent)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
