@@ -11,7 +11,7 @@
   - [Active Directory: Depolying Active Directory within Azure VMs](https://github.com/JheovauhniThompson1/AD-deloyment)
   - [Active Directory: Managing Accounts with Azure VMs](https://github.com/JheovauhniThompson1/AD-account-management)
 - <b>Domain Name System(DNS)</b>
-  - [Practicing DNS within Azure VMs](https://github.com/joshmadakorcc/dns-practice)
+  - [Practicing DNS within Azure VMs](https://github.com/JheovauhniThompson1/dns-practice)
 - <b>HeidSQL</b>
   - [HeidiSQL: Resetting osTicket passwords within Azure VMs](https://github.com/JheovauhniThompson1/mysql-config)
 
